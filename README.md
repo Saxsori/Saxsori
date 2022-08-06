@@ -1,8 +1,7 @@
 
 
-# Hey there ✌🏼
 
-### 🧟‍♀️ BLEEEEAGGHAAAAH !
+# 🧟‍♀️ BLEEEEAGGHAAAAH !
 ✨ It's Abrar, a 19 years old learner ✨
 
 
