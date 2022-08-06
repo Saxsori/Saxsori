@@ -9,5 +9,5 @@
 
 🖥 I'm currently studying Programming and Electrical Engineering.
 
-![snake git](https://github.com/alka0203/alka0203/blob/output/github-contribution-grid-snake.svg)
+![snake git](https://github.com/Saxsori/Saxsori/blob/output/github-contribution-grid-snake.svg)
 
