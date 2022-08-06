@@ -8,3 +8,6 @@
 
 
 🖥 I'm currently studying Programming and Electrical Engineering.
+
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
