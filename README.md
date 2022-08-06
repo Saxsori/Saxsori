@@ -7,4 +7,4 @@
 
 
 
-🖥 I'm currently studying Software Development and Electrical Engineering.
+🖥 I'm currently studying Programming and Electrical Engineering.
