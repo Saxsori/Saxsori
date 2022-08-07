@@ -17,7 +17,10 @@
 
 ### ✨ I will share here my projects that I have done so far, feel free to check them out ✨
 
-### 📌 My goals 📌
+
+
+
+### 🎯 My goals 🎯
 - Learning new languages
 - Making code my daily habit
 - Find the answers to my questions 
