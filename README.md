@@ -2,7 +2,7 @@
 
 
 # 🧟‍♀️ BLEEEEAGGHAAAAH !
-## Hey people ✌🏼
+## Hey people ✌🏼!
 ### ✨ It's Abrar, a 19 years old learner ✨
 
 ✨ A Student at 42 AbuDhabi ✨
