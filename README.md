@@ -9,13 +9,13 @@
 
 👩🏻‍💻 I have a passion for learning and sharing what I've learnt with people 👩🏻‍💻
 
-🔍 I'm always curious and like to disscuss anything 🔎
+🔍 I'm always curious and like to disscuss everything 🔎
 
 🕷 Mysterious Things, Unsloved Problems, Bugs, and Weird Algorithms keeps me awake 🕷
 
 ### ✨ I will share here my projects that I have done so far, feel free to check them out ✨
 
-Currently I'm studying at 42 AbuDhabi, so most of my projects is in C/C++.
+I'm currently studying at 42 AbuDhabi, so most of my projects is in C/C++.
 
 ### 🎯 My goals 🎯
 - Learn new languages
