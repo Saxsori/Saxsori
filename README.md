@@ -7,7 +7,7 @@
 
 ✨ A Student at 42 AbuDhabi ✨
 
-🖥 I'm currently studying Software Development and Electrical Engineering 🔌
+🖥 ⚡️ I'm currently studying Software Development and Electrical Engineering ⚡️ 🖥
 
 👩🏻‍💻 I have a passion for learning and sharing what I've learnt with people 👩🏻‍💻
 
