@@ -9,7 +9,7 @@
 
 👩🏻‍💻 I have a passion for learning and sharing what I've learnt with people 👩🏻‍💻
 
-🔍 I'm always curious and like to disscuss everything 🔎
+🔍 I'm always curious and like to disscuss 🔎
 
 🕷 Mysterious Things, Unsloved Problems, Bugs, and Weird Algorithms keeps me awake 🕷
 
