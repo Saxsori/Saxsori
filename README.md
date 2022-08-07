@@ -12,19 +12,7 @@
 🔍 I'm always curious and like to disscuss 🔎
 
 🕷 Mysterious Things, Unsloved Problems, Bugs, and Weird Algorithms keeps me awake 🕷
-
-
-
-
-
-
-
-
-
-
-
-
-
+                                    
 
 
 ### ✨ I will share here my projects that I have done so far, feel free to check them out ✨
