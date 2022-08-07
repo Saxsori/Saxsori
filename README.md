@@ -3,13 +3,13 @@
 ## Hey people ✌🏼!
 ### ✨ It's Abrar, a 19 years old learner ✨
 
-🖥 ⚡️ I'm currently studying Software Development and Electrical Engineering ⚡️ 🖥
+🖥 ⚡️ I'm currently studying Software Development and Electrical Engineering 
 
-👩🏻‍💻 I have a passion for learning and sharing what I've learnt with people 👩🏻‍💻
+👩🏻‍💻 I have a passion for learning and sharing what I've learnt with people 
 
-🔍 I'm always curious and like to disscuss 🔎
+🔍 I'm always curious and like to disscuss 
 
-🕷 Mysterious Things, Unsloved Problems, Bugs, and Weird Algorithms keeps me awake 🕷
+🕷 Mysterious Things, Unsloved Problems, Bugs, and Weird Algorithms keeps me awake 
 
 
 
@@ -17,7 +17,7 @@
 
 I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my projects is in C/C++.
 
-### 🎯 My goals for 2022/2023 🎯
+### 🎯 My goals for 2022/2023 
 - Learn Python and Shell Script
 - Make coding my daily habit
 
