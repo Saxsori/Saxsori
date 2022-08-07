@@ -15,7 +15,7 @@
 
 ### ✨ I will share here my projects that I have done so far, feel free to check them out ✨
 
-Currently I'm studying at 42 AbuDhabi, So most of my projects is in C/C++.
+Currently I'm studying at 42 AbuDhabi, so most of my projects is in C/C++.
 
 ### 🎯 My goals 🎯
 - Learn new languages
