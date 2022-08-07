@@ -21,3 +21,4 @@
 - Learn Python and Shell Script
 - Make coding my daily habit
 
+![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saxsori&count_private=true&theme=tokyonight&show_icons=true)
