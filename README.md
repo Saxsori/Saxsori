@@ -17,7 +17,7 @@
 
 I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my projects is in C/C++.
 
-### 🎯 My goals 🎯
+### 🎯 My goals for 2022/2023 🎯
 - Learn new languages
 - Make coding my daily habit
 - Find the answers to my questions 
