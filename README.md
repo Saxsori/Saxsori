@@ -2,10 +2,10 @@
 
 
 # 🧟‍♀️ BLEEEEAGGHAAAAH !
-### Hey there ✌🏼
+## Hey there ✌🏼
 ✨ It's Abrar, a 19 years old learner ✨
 
-🖥 I'm currently studying Programming and Electrical Engineering.
+🖥 I'm currently studying Software Development and Electrical Engineering 🔌
 
 
 
