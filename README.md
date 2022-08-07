@@ -18,7 +18,7 @@
 Currently I'm studying at 42 AbuDhabi, So most of my projects is in C/C++.
 
 ### 🎯 My goals 🎯
-- Learning new languages
-- Making code my daily habit
+- Learn new languages
+- Make coding my daily habit
 - Find the answers to my questions 
 
