@@ -20,5 +20,5 @@
 ### 📌 My goals 📌
 - Learning new languages
 - Making code my daily habit
-- Find the answer to my questions 
+- Find the answers to my questions 
 
