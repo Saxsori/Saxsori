@@ -18,7 +18,6 @@
 I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my projects is in C/C++.
 
 ### 🎯 My goals for 2022/2023 🎯
-- Learn python and shell script.
+- Learn Python and Shell Script
 - Make coding my daily habit
-- Find the answers to my questions 
 
