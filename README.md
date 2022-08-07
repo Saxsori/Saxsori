@@ -5,8 +5,6 @@
 ## Hey people ✌🏼!
 ### ✨ It's Abrar, a 19 years old learner ✨
 
-✨ A Student at 42 AbuDhabi ✨
-
 🖥 ⚡️ I'm currently studying Software Development and Electrical Engineering ⚡️ 🖥
 
 👩🏻‍💻 I have a passion for learning and sharing what I've learnt with people 👩🏻‍💻
@@ -17,8 +15,7 @@
 
 ### ✨ I will share here my projects that I have done so far, feel free to check them out ✨
 
-
-
+Currently I'm studying at 42 AbuDhabi, So most of my projects is in C/C++.
 
 ### 🎯 My goals 🎯
 - Learning new languages
