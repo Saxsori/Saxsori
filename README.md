@@ -9,16 +9,16 @@ I have a passion for learning and sharing what I've learnt with people 👩🏻�
 
 I'm always curious and like to disscuss 🔎
 
-Mysterious Things, Unsloved Problems, Bugs, and Weird Algorithms keeps me awake 🕷
+Mysterious Things, Unsloved Problems, and Bugs keeps me awake 🕷
 
 
 
 ### ✨ I will share here my projects that I have done so far, feel free to check them out ✨
 
-➥ I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my projects is in C/C++.
+➥ I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my projects are in C/C++.
 
 ### 🎯 My goals for 2022/2023 
 - Learn Python and Shell Script
 - Make coding my daily habit
 
-![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saxsori&count_private=true&theme=tokyonight&show_icons=true)
+![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saxsori&count_private=true&theme=tokyonight&show_icons=true&hide=issues&show_owner=true)
