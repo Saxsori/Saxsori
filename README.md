@@ -25,7 +25,7 @@ Mysterious Things, Unsloved Problems, and Bugs keeps me awake 🕷
 - <b>C++ (object oriented programming)</b>
   - [CPP Modules](https://github.com/Saxsori/CPP_Modules)
 - <b>Network and System Administration
-  - [Net Practice](https://github.com/Saxsori/Net_Practice) (TCP/IP addressing)
+  - [Net Practice](https://github.com/Saxsori/Net_Practice) (TCP/IP addressing, Subnetting)
 
 ### 🎯 My goals for 2022/2023 
 - Learn Python and Shell Script
