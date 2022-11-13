@@ -25,7 +25,7 @@ Mysterious Things, Unsloved Problems, and Bugs keeps me awake 🕷
   - [Minitalk](https://github.com/Saxsori/minitalk) (Communication program, Unix logic)
 - <b>C++ (object oriented programming)</b>
   - [CPP Modules](https://github.com/Saxsori/CPP_Modules) (Abstraction, Encapsulation, Inheritance, Polymorphism)
-- <b>Network and System Administration
+- <b>Network and System Administration</b>
   - [Net Practice](https://github.com/Saxsori/Net_Practice) (TCP/IP addressing, Subnetting)
 
 ## 🎯 My goals for 2022/2023 
