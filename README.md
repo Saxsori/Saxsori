@@ -15,8 +15,6 @@ Mysterious Things, Unsloved Problems, and Bugs keeps me awake 🕷
 
 ➥ I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my projects are in C/C++.
 
-![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saxsori&count_private=true&theme=tokyonight&show_icons=true&hide=issues&show_owner=true)
-
 ## 👩🏻‍💻 Software Development Projects
 - <b>C (programming)</b>
   - [Philosopher](https://github.com/Saxsori/Philosopher) (Multithreading, Data races, Unix)
@@ -27,6 +25,8 @@ Mysterious Things, Unsloved Problems, and Bugs keeps me awake 🕷
   - [CPP Modules](https://github.com/Saxsori/CPP_Modules) (Abstraction, Encapsulation, Inheritance, Polymorphism)
 - <b>Network and System Administration</b>
   - [Net Practice](https://github.com/Saxsori/Net_Practice) (TCP/IP addressing, Subnetting)
+
+![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saxsori&count_private=true&theme=tokyonight&show_icons=true&hide=issues&show_owner=true)
 
 ## 🎯 My goals for 2022/2023 
 - Learn Python and Shell Script
