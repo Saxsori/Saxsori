@@ -33,4 +33,4 @@ Mysterious Things, Unsloved Problems, and Bugs keeps me awake 🕷
 - Learn Python and Shell Script
 - Make coding my daily habit
 ## ✉️ Contact
-abraralj@outlook.com
+- abraralj@outlook.com
