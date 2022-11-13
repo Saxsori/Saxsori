@@ -20,14 +20,13 @@ Mysterious Things, Unsloved Problems, and Bugs keeps me awake 🕷
 ## Software Development Projects:
 - <b>C (programming)</b>
   - [Philosopher](https://github.com/Saxsori/Philosopher) (Multithreading, Data races)
-  - [Ray-Cast](https://github.com/Saxsori/ray-cast) (openGL)(Math Calculation)(3DGame)
-  - [PushSwap](https://github.com/Saxsori/Push_Swap) (Algorithms)(Sort Game)
+  - [Ray-Cast](https://github.com/Saxsori/ray-cast) (openGL, Math Calculation, 3DGame)
+  - [PushSwap](https://github.com/Saxsori/Push_Swap) (Algorithms, Sort Game)
 - <b>C++ (object oriented programming)</b>
   - [CPP Modules](https://github.com/Saxsori/CPP_Modules)
 - <b>Network and System Administration
-  - [Net Practice](https://github.com/Saxsori/Net_Practice)
+  - [Net Practice](https://github.com/Saxsori/Net_Practice) (TCP/IP addressing)
 
 ### 🎯 My goals for 2022/2023 
 - Learn Python and Shell Script
 - Make coding my daily habit
-
