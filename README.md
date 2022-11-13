@@ -13,7 +13,7 @@ Mysterious Things, Unsloved Problems, and Bugs keeps me awake 🕷
 
 ### ✨ I will share here my projects that I have done so far, feel free to check them out ✨
 
-➥ I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my projects are in C/C++.
+I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my projects are in C/C++.
 <details>	
   <summary><b>👩🏻‍💻 42 stats</b></summary>
   <br />
