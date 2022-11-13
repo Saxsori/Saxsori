@@ -27,6 +27,6 @@ Mysterious Things, Unsloved Problems, and Bugs keeps me awake 🕷
 - <b>Network and System Administration
   - [Net Practice](https://github.com/Saxsori/Net_Practice) (TCP/IP addressing, Subnetting)
 
-### 🎯 My goals for 2022/2023 
+## 🎯 My goals for 2022/2023 
 - Learn Python and Shell Script
 - Make coding my daily habit
