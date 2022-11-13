@@ -11,6 +11,8 @@ I'm always curious and like to disscuss 🔎
 
 Mysterious Things, Unsloved Problems, and Bugs keeps me awake 🕷
 
+#### [👩🏻‍💻 My portfolio](https://sasori-dzemyq.stackblitz.io)
+
 ### ✨ I will share here my projects that I have done so far, feel free to check them out ✨
 
 I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my projects are in C/C++.
