@@ -32,3 +32,5 @@ Mysterious Things, Unsloved Problems, and Bugs keeps me awake 🕷
 ## 🎯 My goals for 2022/2023 
 - Learn Python and Shell Script
 - Make coding my daily habit
+## ✉️ Contact
+abraralj@outlook.com
