@@ -20,7 +20,7 @@ Mysterious Things, Unsloved Problems, and Bugs keeps me awake 🕷
   - [Philosopher](https://github.com/Saxsori/Philosopher) (Multithreading, Data races, Unix)
   - [Ray-Cast](https://github.com/Saxsori/ray-cast) (openGL, Math Calculation, 3DGame, Graphics)
   - [PushSwap](https://github.com/Saxsori/Push_Swap) (Algorithm implementation, Sorting algorithms)
-  - [Minitalk](https://github.com/Saxsori/minitalk) (Communication program, Unix logic)
+  - [Minitalk](https://github.com/Saxsori/minitalk) (Unix logic, Signals, Bitwise operations)
 - <b>C++ (object oriented programming)</b>
   - [CPP Modules](https://github.com/Saxsori/CPP_Modules) (Abstraction, Encapsulation, Inheritance, Polymorphism)
 - <b>Network and System Administration</b>
