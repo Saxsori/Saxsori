@@ -17,7 +17,7 @@ Mysterious Things, Unsloved Problems, and Bugs keeps me awake 🕷
 
 ![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saxsori&count_private=true&theme=tokyonight&show_icons=true&hide=issues&show_owner=true)
 
-## Software Development Projects:
+## 👩🏻‍💻 Software Development Projects
 - <b>C (programming)</b>
   - [Philosopher](https://github.com/Saxsori/Philosopher) (Multithreading, Data races, Unix)
   - [Ray-Cast](https://github.com/Saxsori/ray-cast) (openGL, Math Calculation, 3DGame, Graphics)
