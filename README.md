@@ -19,9 +19,9 @@ Mysterious Things, Unsloved Problems, and Bugs keeps me awake 🕷
 
 ## Software Development Projects:
 - <b>C (programming)</b>
-  - [Philosopher](https://github.com/Saxsori/Philosopher) (Multithreading, Data races)
-  - [Ray-Cast](https://github.com/Saxsori/ray-cast) (openGL, Math Calculation, 3DGame)
-  - [PushSwap](https://github.com/Saxsori/Push_Swap) (Algorithms, Sort Game)
+  - [Philosopher](https://github.com/Saxsori/Philosopher) (Multithreading, Data races, Unix)
+  - [Ray-Cast](https://github.com/Saxsori/ray-cast) (openGL, Math Calculation, 3DGame, Graphics)
+  - [PushSwap](https://github.com/Saxsori/Push_Swap) (Algorithm implementation, Sorting algorithms)
 - <b>C++ (object oriented programming)</b>
   - [CPP Modules](https://github.com/Saxsori/CPP_Modules)
 - <b>Network and System Administration
