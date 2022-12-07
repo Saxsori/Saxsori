@@ -40,6 +40,3 @@ I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my p
 ## 🎯 My goals for 2022/2023 
 - Learn Python and Shell Script
 - Make coding my daily habit
-## ✉️ Contact
-- [My portfolio](https://abrar-aljaberi.stackblitz.io)
-- abraralj@outlook.com
