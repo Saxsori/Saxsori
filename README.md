@@ -20,7 +20,7 @@ I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my p
   <img height="180em" src="https://badge42.vercel.app/api/v2/clafk5j2300110fl2g6ktwjk5/stats?cursusId=21&coalitionId=155" />
 </details>
 
-## 🖥 Software Development Projects
+## 🖥 My Software Development Projects
 - <b>C (programming)</b>
   - [Philosopher](https://github.com/Saxsori/Philosopher) (Multithreading, Data races, Unix)
   - [Ray-Cast](https://github.com/Saxsori/ray-cast) (openGL, Math Calculation, 3DGame, Graphics)
