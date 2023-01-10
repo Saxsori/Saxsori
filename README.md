@@ -3,7 +3,7 @@
 ## Hey people ✌🏼!
 ### ✨ It's Abrar, a 19 year old learner ✨
 
-I'm currently studying Software Development and Electrical Engineering ⚡️ 🖥
+I'm currently studying Software Development 🖥
 
 I have a passion for learning and sharing what I've learnt with people 👩🏻‍💻
 
