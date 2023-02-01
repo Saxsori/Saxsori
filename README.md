@@ -1,7 +1,7 @@
 
 # 🧟‍♀️ BLEEEEAGGHAAAAH !
 ## Hey people ✌🏼!
-### ✨ It's Abrar, a 19 year old learner ✨
+### ✨ It's Abrar, a 20 year old learner ✨
 
 I'm currently studying Software Development 🖥
 
