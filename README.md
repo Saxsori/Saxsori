@@ -1,5 +1,7 @@
 
 # 🧟‍♀️ BLEEEEAGGHAAAAH !
+![original](https://user-images.githubusercontent.com/92129820/217349588-f7200359-62cd-4ac1-baa4-ddd9e82a41bf.gif)
+
 ## Hey people ✌🏼!
 ### ✨ It's Abrar, a 20 year old learner ✨
 
