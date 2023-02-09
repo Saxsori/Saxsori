@@ -4,9 +4,7 @@
 ![tumblr_owjskzld2Z1rnbw6mo1_1280](https://user-images.githubusercontent.com/92129820/217882157-d5cc4414-45f5-40b2-9ee0-1d894fdb3580.gif)
 
 ## Hey people ✌🏼!
-### ✨ It's Abrar, a 20 year old learner ✨
-
-I'm currently studying Software Development 🖥
+### ✨ It's Abrar, an Ambitious Software Developer ✨
 
 I have a passion for learning and sharing what I've learnt with people 👩🏻‍💻
 
