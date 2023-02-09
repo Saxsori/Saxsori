@@ -1,7 +1,7 @@
 
 # 🧟‍♀️ BLEEEEAGGHAAAAH !
 
-![tumblr_owjskzld2Z1rnbw6mo1_1280](https://user-images.githubusercontent.com/92129820/217882935-fe79fc87-54b4-4921-9c52-894013b3dbc1.gif)
+![gif](https://user-images.githubusercontent.com/92129820/217882935-fe79fc87-54b4-4921-9c52-894013b3dbc1.gif)
 
 ## Hey people ✌🏼!
 ### ✨ It's Abrar, an Ambitious Software Developer ✨
