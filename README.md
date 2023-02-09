@@ -37,3 +37,4 @@ I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my p
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saxsori&count_private=true&theme=tokyonight&show_icons=true&hide=issues&show_owner=true" />
 </details>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
