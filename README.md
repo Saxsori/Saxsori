@@ -31,6 +31,7 @@ I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my p
   - [CPP Modules](https://github.com/Saxsori/CPP_Modules) (Abstraction, Encapsulation, Inheritance, Polymorphism)
 - <b>Network and System Administration</b>
   - [Net Practice](https://github.com/Saxsori/Net_Practice) (TCP/IP addressing, Subnetting)
+  - [ft_irc](https://github.com/i99dev/ft_irc) (Network protocols, Low-level Network Programming)
 
 <details>	
   <summary><b>👩🏻‍💻 Github stats</b></summary>
