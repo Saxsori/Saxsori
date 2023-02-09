@@ -1,7 +1,6 @@
 
-# 🧟‍♀️ BLEEEEAGGHAAAAH !
-
 ![gif](https://github.com/Saxsori/Saxsori/blob/main/assests/head.gif)
+# 🧟‍♀️ BLEEEEAGGHAAAAH !
 
 ## Hey people ✌🏼!
 ### ✨ It's Abrar, an Ambitious Software Developer ✨
