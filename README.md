@@ -1,9 +1,9 @@
 
 # 🧟‍♀️ BLEEEEAGGHAAAAH !
 
-<!-- ![gif](https://github.com/Saxsori/Saxsori/blob/main/assests/head.gif) -->
-<gif-player src="https://github.com/Saxsori/Saxsori/blob/main/assests/head.gif" speed="0.5" play></gif-player>
-
+![gif](https://github.com/Saxsori/Saxsori/blob/main/assests/head.gif)
+<!-- <gif-player src="https://github.com/Saxsori/Saxsori/blob/main/assests/head.gif" speed="0.5" play></gif-player> -->
+<!--  <img height="300" width="1080" src="https://github.com/Saxsori/Saxsori/blob/main/assests/head.gif"/> -->
 
 ## Hey people ✌🏼!
 ### ✨ It's Abrar, an Ambitious Software Developer ✨
