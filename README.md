@@ -36,7 +36,7 @@ I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my p
   - [Net Practice](https://github.com/Saxsori/Net_Practice) (TCP/IP addressing, Subnetting)
   - [ft_irc](https://github.com/i99dev/ft_irc) (Network protocols, Low-level Network Programming)
 
-### My Web Development Projects
+## 🌐 My Web Development Projects 
 - [ft_transendence](https://github.com/i99dev/ft_transcendence) (Backend, Frontend, RESTful Api, OAuth2, websockets, Tailwind, Nodejs, Nuxtjs, Nestjs, Typescript, vue, Docker, nginx, PostGres SQL, Relational Database)
 
 <details>	
