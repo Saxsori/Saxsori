@@ -34,7 +34,8 @@ I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my p
   - [ft_containers](https://github.com/Saxsori/ft_containers) (Templates, Optimization Techniques, Performance Analysis, Memory Management)
 - <b>Network and System Administration</b>
   - [Net Practice](https://github.com/Saxsori/Net_Practice) (TCP/IP addressing, Subnetting)
-  - [ft_irc](https://github.com/i99dev/ft_irc) (Network protocols, Low-level Network Programming, TCP Sockets)
+  - [ft_irc](https://github.com/i99dev/ft_irc) (Network protocols, Low-level Network Programming, IRC Protocols, TCP Sockets)
+  - [Inception](https://github.com/Saxsori/inception) (Docker CLI, Docker Volumes, Docker Compose, Docker Network, Docker Images, Dockerfile)
 - <b> Java (object-oriented programming)</b>
   - [JavaOne](https://github.com/Saxsori/javaOne) (Java Fundamentals, Java Compilation, Docker)
   - [Avaj Launcher](https://github.com/Saxsori/avaj_launcher) (Java, UML, Object-oriented programming, Maven)
