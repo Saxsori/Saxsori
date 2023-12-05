@@ -6,7 +6,7 @@
 <!--  <img height="300" width="1080" src="https://github.com/Saxsori/Saxsori/blob/main/assests/head.gif"/> -->
 
 ## Hey people ✌🏼!
-### ✨ It's Abrar, an Ambitious Software Developer ✨
+### ✨ It's Abrar, an Ambitious Software Engineer ✨
 
 I have a passion for learning and sharing what I've learned with people 👩🏻‍💻
 
