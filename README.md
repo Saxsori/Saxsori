@@ -1,6 +1,7 @@
+<div align='center'>
+  <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1500,h_681/https://patronhunt.com/wp-content/uploads/2022/09/Scrub_in_Japan_1643698037.gif" width=1000 height=300 />
+</div>
 
-
-<img src="./assests/head.gif" alt="head gif" />
 
 ## Hey people ✌🏼!
 ### ✨ It's Abrar, an Ambitious Software Engineer ✨
