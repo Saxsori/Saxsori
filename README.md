@@ -14,12 +14,6 @@ Mysterious Things, Unsolved Problems, and Bugs keep me awake 🕷
 
 ### ✨ I will share here the projects that I have done so far, feel free to check them out ✨
 
-I'm currently studying at [42 AbuDhabi](https://42abudhabi.ae/), so most of my projects are in C/C++.
-<details>	
-  <summary><b>👩🏻‍💻 42 stats</b></summary>
-  <br />
-  <img height="180em" src="https://badge42.vercel.app/api/v2/clafk5j2300110fl2g6ktwjk5/stats?cursusId=21&coalitionId=155" />
-</details>
 
 ## 🖥 My Software Development Projects
 - <b>C (programming language)</b>
