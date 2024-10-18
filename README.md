@@ -31,9 +31,11 @@ Mysterious Things, Unsolved Problems, and Bugs keep me awake 🕷
 - <b> Java (object-oriented programming)</b>
   - [JavaOne](https://github.com/Saxsori/javaOne) (Java Fundamentals, Java Compilation, Docker)
   - [Avaj Launcher](https://github.com/Saxsori/avaj_launcher) (Java, UML, Object-oriented programming, Maven)
+- <b> Web Development (Front-end and Back-end)</b>
+  - [ft_transendence](https://github.com/i99dev/ft_transcendence) (RESTful API, OAuth2, WebSockets, Tailwind, Nodejs, Nuxtjs, Nestjs, Typescript, Vue, Docker, Nginx, Postgres SQL, Relational Database)
+- <b> AI </b>
+  - [ft_linear_regression](https://github.com/Saxsori/ft_linear_regression) (Python, Statistics, Gradient Descent, Linear Regression)
 
-## 🌐 My Web Development Projects 
-- [ft_transendence](https://github.com/i99dev/ft_transcendence) (Backend, Frontend, RESTful API, OAuth2, WebSockets, Tailwind, Nodejs, Nuxtjs, Nestjs, Typescript, Vue, Docker, Nginx, Postgres SQL, Relational Database)
 
 <details>	
   <summary><b>👩🏻‍💻 Github stats</b></summary>
