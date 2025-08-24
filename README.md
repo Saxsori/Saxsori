@@ -2,19 +2,6 @@
 <img src="./assests/head.gif" />
 </div>
 
-
-## Hey people ✌🏼!
-### ✨ It's Abrar, an Ambitious Software Engineer ✨
-
-I have a passion for learning and sharing what I've learned with people 👩🏻‍💻
-
-I'm always curious and like to discuss 🔎
-
-Mysterious Things, Unsolved Problems, and Bugs keep me awake 🕷
-
-### ✨ I will share here the projects that I have done so far, feel free to check them out ✨
-
-
 ## 🖥 My Software Development Projects
 - <b>C (programming language)</b>
   - [Philosopher](https://github.com/Saxsori/Philosopher) (Multithreading, Data races, Unix)
